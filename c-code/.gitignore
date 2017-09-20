@@ -1,0 +1,15 @@
+# build files
+build*
+*.exe
+obj/*.o
+a.out
+
+# emacs autosave files
+.#*
+
+# OSX files
+.DS_Store
+
+# program output
+histo
+tlopv2.db
